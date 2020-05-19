@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Muffakham Ali Farhan",
+    "occupation":"Grad Student",
+    "description":"at the Arizona State University, currently pursuing my master's in computer Science",
+    "university":"Arizona State Univesity (ASU)",
+    "image":"profilepic.jpg",
+    "bio":"A Grad Sudent at the Arizona State University currently pursuing my master's in computer Science, I am a passionate developer and a machine learning enthusiast. I love to develop web and mobile applications and quite interested in application oreinted machine learning ",
+    "contactmessage":"I am curently looking for co-op oppurtunities for the semester of spring 2021",
+    "email": "mmoham64@asu.edu",
+    "phone": "602-587-6933",
+    "address":{
+      "street":"1275 East University Drive",
+      "city":"Tempe",
+      "state":"Arizona",
+      "zip": "85281"
+    },
+    "website": "",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muffakham-ali-farhan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Muffakham",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Arizona State University (ASU)",
+        "degree":"M.S in Computer Science",
+        "graduated":"May 2021",
+        "description":"Currently I am studying at ASU and would graduate as MS degree holder in computer science in the fall of 2021. The journey has been so far really amazing for me. I am mostly focussing on Machine learning subjects in my M.S and have taken various courses like the statistical machine learning, Data Mining and so on."
+      },
+      {
+        "school":"Vasavi College Of Engineering (VCE)",
+        "degree":"B.Engg in Information Technology",
+        "graduated":"May 2019",
+        "description":"I graduated from VCE with a degree of bachelor's of engineering in the field of Information Technology. the four years of my undegrad have been really exceptional. I learnt a lot both on the personal and professional side. I had developed a lot of skill during my undegrad and one of the major skill was to learn mobile and web application development. I am in awe at the concept of creaing something worthwile for people to use and love how the web and mobile apps empower this idea. I still learn a lot about application development every single day and enjoy every learning curve !"
+      }
+    ],
+    "work":[
+      {
+        "company":"Itversity",
+        "title":"Web application developer Intern ",
+        "years":"January 2019  - May 2019",
+        "description":"Worked  towards the development of web applications using the javascript frameworks of react.js and redux.js. During my time at itversity, I Was primarily involved in the creation of front end styling components for the web applications and focussed mainly on the designing and creation of the front end for a food delivery web application."
+      },
+      {
+        "company":"Unistring Tech Solutions (UTS)",
+        "title":"Andorid application developer Intern",
+        "years":"May 2018 - July 2018",
+        "description":"Worked as an android application developer. During my internship I built an android based application for the firm to have an efficient workflow management system for its employees which was essentilally a way for the employees to keep their team lead posted about their daily accomplishments of the task assigned to them. I Was also involved with requirements gathering and designing of specifications for the application.The application was developed in java with the help of android studio. Firebase analytics and its real time database was also implied for the application"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"C/C++",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CUDA",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"Tensorflow",
+        "level":"40%"
+      },
+      {
+        "name":"Pytorch",
+        "level":"50%"
+      },
+      {
+        "name":"Android Application development",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Image Recommender System",
+        "category":"An Image based product recommendation system implemented using statistical machine learning algortihms",
+        "image":"download.jpg",
+        "url":"https://github.com/Muffakham/CSE575-SML"
+      },
+      {
+        "title":"Hot Spot Analysis",
+        "category":"A spark project implementation to obtain the hot spots of taxi in New York City",
+        "image":"download.jpg",
+        "url":"https://github.com/vktiwary007/CSE511_Project"
+      },
+      {
+        "title":"Machine Learning Algortihms",
+        "category":"Implementation of basic machine learning algorithms like Kmeans, KNN and etc.",
+        "image":"download.jpg",
+        "url":"https://github.com/Muffakham/CSE575-SML/tree/HW3-CSE575/HW3-CSE575"
+      },
+      {
+        "title":"Gesture Tutor",
+        "category":"A simple android application to learn the American Sign Language (ASL) getsures and upload the user's practice videos to a Server",
+        "image":"download.jpg",
+        "url":"https://github.com/Muffakham/Mobile-Computing-Assignment-1"
+      },
+      {
+        "title":"ASL Fingerspell",
+        "category":"A system that takes in the Sign Language fingerspelling of the words provided by the user and predicts the word for from the video",
+        "image":"download.jpg",
+        "url":"https://drive.google.com/drive/u/0/folders/1_Kng5R54F2FfSm3T7Ke0GG6ayuyTJIyt"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability.",
+        "user":"Henry Ford"
+      },
+      {
+        "text":"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+        "user":"Steve Jobs"
+      }
+    ]
+  }
+}
